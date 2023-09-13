@@ -19,11 +19,11 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '新手必看 →
-', url: '/tag/必看精选' },
+', url: '/tag/新手必看' },
   HERO_CATEGORY_2: { title: '新手必看 →
-', url: '/tag/热门文章' },
+', url: '/tag/新手必看' },
   HERO_CATEGORY_3: { title: '新手必看 →
-', url: '/tag/实用教程' },
+', url: '/tag/新手必看' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
@@ -101,7 +101,7 @@ const CONFIG = {
     }
   ],
 
-  SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
