@@ -18,9 +18,9 @@ const CONFIG = {
   HERO_TITLE_LINK: 'https://www.082200.xyz',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '新手上线→', url: '/tag/新手上线→' },
+  HERO_CATEGORY_1: { title: '新手必看→', url: '/tag/新手必看→' },
   HERO_CATEGORY_2: { title: '新手必看→', url: '/tag/新手必看→' },
-  HERO_CATEGORY_3: { title: '新手必看→a', url: '/tag/新手必看→a' },
+  HERO_CATEGORY_3: { title: '新手必看→', url: '/tag/新手必看→' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
